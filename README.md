@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Anik
-#### I am full stack web developer
+#### I’m full stack web developer
 
 Skills:  HTML / CSS / JS / REACT / VUE / NodeJS / PHP / MySql
 
@@ -22,8 +22,6 @@ Skills:  HTML / CSS / JS / REACT / VUE / NodeJS / PHP / MySql
 </p>
 </br>
 </br>
-
----
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anik-hossain&show_icons=true&theme=monokai)
