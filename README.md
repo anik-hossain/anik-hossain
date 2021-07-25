@@ -4,8 +4,9 @@
 Skills:  HTML / CSS / JS / REACT / VUE / NodeJS / PHP / MySql
 
 
-- 🔭 I’m currently working on <a href="//codebumble.com">CodeBumble</a> 
-- 📫 How to reach me: <a href="mailto:anik@codebumble.com">Email</a> 
+- 🔭 I’m currently working on <a href="//codebumble.com">CodeBumble</a>
+
+---
 
 ### Available 👇
 <p>
