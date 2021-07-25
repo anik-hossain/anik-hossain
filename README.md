@@ -1,9 +1,6 @@
 ### Hi there 👋, my name is Anik
 #### I am full stack web developer
 
-
-Hello! I am Md. Anik Hossain.
-
 Skills:  HTML / CSS / JS / REACT / VUE / NodeJS
 
 - 🔭 I’m currently working on <a href="//codebumble.com">CodeBumble</a> 
@@ -15,4 +12,4 @@ Skills:  HTML / CSS / JS / REACT / VUE / NodeJS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anik-hossain&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/mdsaifurrahmann)  
+![Profile views](https://gpvc.arturio.dev/anik-hossain)  
