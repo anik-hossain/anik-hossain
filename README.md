@@ -4,8 +4,6 @@
 Skills:  HTML / CSS / JS / REACT / VUE / NodeJS / PHP / MySql
 
 
-- 🔭 I’m currently working on <a href="//codebumble.com">CodeBumble</a>
-
 ---
 
 ### Available 👇
