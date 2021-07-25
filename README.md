@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Anik
 #### I am full stack web developer
 
-Skills:  HTML / CSS / JS / REACT / VUE / NodeJS / PHP /MySql
+Skills:  HTML / CSS / JS / REACT / VUE / NodeJS / PHP / MySql
 
 - 🔭 I’m currently working on <a href="//codebumble.com">CodeBumble</a> 
 - 📫 How to reach me: <a href="mailto:anik@codebumble.com">Email</a> 
