@@ -18,9 +18,8 @@ Skills:  HTML / CSS / JS / REACT / VUE / NodeJS / PHP / MySql
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anik-hossain&show_icons=true&theme=monokai)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anik-hossain&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
-- Wakatime card
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anik-hossain)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ![Profile views](https://gpvc.arturio.dev/anik-hossain)  
