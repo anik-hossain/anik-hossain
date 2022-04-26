@@ -16,5 +16,8 @@ Skills:  HTML / CSS / JS / REACT / VUE / NodeJS / PHP / MySql
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anik-hossain&show_icons=true&theme=monokai)
+- Compact layout
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/anik-hossain)  
