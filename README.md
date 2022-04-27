@@ -28,4 +28,5 @@ JavaScript   1 hr 34 mins    █████████████████
 
 <!--END_SECTION:waka-->
 ---
+[![coding time](https://wakatime.com/badge/user/75d53b00-1182-4518-b05e-9e9bbcdae4f8.svg)](https://wakatime.com/@75d53b00-1182-4518-b05e-9e9bbcdae4f8)
 ![Profile views](https://gpvc.arturio.dev/anik-hossain)  
