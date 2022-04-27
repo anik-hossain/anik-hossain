@@ -21,6 +21,11 @@ Skills:  HTML / CSS / JS / REACT / VUE / NodeJS / PHP / MySql
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anik&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   1 hr 34 mins    █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 ---
 ![Profile views](https://gpvc.arturio.dev/anik-hossain)  
