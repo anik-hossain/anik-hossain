@@ -21,6 +21,12 @@ Skills:  HTML / CSS / JS / REACT / VUE / NodeJS / PHP / MySql
 
 [![anik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anik&theme=monokai)](https://github.com/anik-hossain/github-readme-stats)
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   5 hrs 38 mins   ██████████████░░░░░░░░░░░   55.52 %
+Other        4 hrs 29 mins   ███████████░░░░░░░░░░░░░░   44.17 %
+```
+
 <!--END_SECTION:waka-->
 ---
 [![coding time](https://wakatime.com/badge/user/75d53b00-1182-4518-b05e-9e9bbcdae4f8.svg)](https://github.com/anik-hossain)
