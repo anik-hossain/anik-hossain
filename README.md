@@ -20,6 +20,11 @@ Skills:  HTML / CSS / JS / REACT / VUE / NodeJS / PHP / MySql
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anik-hossain&layout=compact&theme=monokai)](https://github.com/anik-hossain)
 
 <!--START_SECTION:waka-->
+
+```text
+Other        11 hrs 27 mins  ████████████▓░░░░░░░░░░░░   50.94 %
+```
+
 <!--END_SECTION:waka-->
 ---
 
