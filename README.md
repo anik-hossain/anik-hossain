@@ -22,7 +22,8 @@ Skills:  HTML / CSS / JS / REACT / VUE / NodeJS / PHP / MySql
 <!--START_SECTION:waka-->
 
 ```text
-Other        11 hrs 27 mins  ████████████▓░░░░░░░░░░░░   50.94 %
+JavaScript   15 hrs 38 mins  █████████████▓░░░░░░░░░░░   55.14 %
+Other        12 hrs 33 mins  ███████████░░░░░░░░░░░░░░   44.25 %
 ```
 
 <!--END_SECTION:waka-->
