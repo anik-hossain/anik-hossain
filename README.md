@@ -22,7 +22,7 @@ Skills:  HTML / CSS / JS / REACT / VUE / NodeJS / PHP / MySql
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
