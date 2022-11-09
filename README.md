@@ -2,7 +2,7 @@
 
 #### I’m full stack web developer
 
-Skills:  HTML / CSS / JS / REACT / VUE / NodeJS / PHP / MySql
+Skills:  CSS / HTML / JS / MySql / NodeJS / Nuxt / PHP / REACT / VUE
 
 
 ---
