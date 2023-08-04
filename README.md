@@ -22,11 +22,11 @@ Skills:  CSS / HTML / JS / MySql / NodeJS / Nuxt / PHP / REACT / VUE / MongoDB /
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   15 hrs 53 mins  ███████████████████░░░░░░   75.50 %
-JavaScript   3 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.89 %
-HTML         29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-JSON         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-CSV          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+TypeScript   18 hrs 48 mins  █████████████████████░░░░   84.02 %
+JavaScript   1 hr 57 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+HTML         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+CSV          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
