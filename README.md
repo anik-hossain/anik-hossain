@@ -15,9 +15,9 @@ Skills:  CSS / HTML / JS / MySql / NodeJS / Nuxt / PHP / REACT / VUE / MongoDB /
 </br>
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anik-hossain&show_icons=true&theme=monokai)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anikh21&show_icons=true&theme=monokai)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anik-hossain&layout=compact&theme=monokai)](https://github.com/anik-hossain)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikh21&layout=compact&theme=monokai)](https://github.com/anikh21)
 
 <!--START_SECTION:waka-->
 
@@ -32,4 +32,4 @@ HTML         5 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ---
 
-![Profile views](https://gpvc.arturio.dev/anik-hossain)  
+![Profile views](https://gpvc.arturio.dev/anikh21)  
