@@ -32,4 +32,4 @@ TSConfig     2 mins          ░░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 ---
 
-![Profile views](https://gpvc.arturio.dev/anikh21)  
+![](https://komarev.com/ghpvc/?username=anikh21)  
