@@ -16,7 +16,7 @@ Skills:  CSS / HTML / JS / MySql / NodeJS / Nuxt / PHP / REACT / VUE / MongoDB /
 
 # <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30"> Statistics
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=anikh21&theme=radical&hide_border=true">
+![anikh21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anikh21&theme=vue-dark&hide_border=true)
 
 ![anikh21's Stats](https://github-readme-stats.vercel.app/api?username=anikh21&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
