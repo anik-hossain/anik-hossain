@@ -18,7 +18,7 @@ Skills:  CSS / HTML / JS / MySql / NodeJS / Nuxt / PHP / REACT / VUE / MongoDB /
 
 <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=anikh21&theme=radical&hide_border=true">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anikh21&show_icons=true&include_all_commits=true&theme=monokai)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anikh21&layout=compact&theme=monokai)](https://github.com/anikh21)
 
