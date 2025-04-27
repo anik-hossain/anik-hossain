@@ -17,7 +17,7 @@ Skills:  CSS / HTML / JS / MySql / PHP / MongoDB / Python / Next JS / Nuxt JS / 
 
 ![anik-hossain's Streak](https://github-readme-streak-stats.herokuapp.com/?user=anik-hossain&theme=vue-dark&hide_border=true)
 
-![anik-hossain's Stats](https://github-readme-stats.vercel.app/api?username=anik-hossain&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![anik-hossain's Stats](https://github-readme-stats.vercel.app/api?username=anik-hossain&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
 ![anik-hossain's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anik-hossain&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
